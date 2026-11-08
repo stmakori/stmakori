@@ -4,9 +4,9 @@
 </picture>
 
 <p>
-  <a href="https://stmakori.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-stmakori.github.io-0d7356?style=flat-square"></a>
-  <a href="https://linkedin.com/in/stephaniemakori"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-stephaniemakori-0a66c2?style=flat-square"></a>
-  <a href="mailto:makoristephanie@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-makoristephanie%40gmail.com-56665f?style=flat-square"></a>
+  <a href="https://stmakori.github.io"><img alt="Portfolio" src="assets/badges/portfolio-stmakori-github-io.svg"></a>
+  <a href="https://linkedin.com/in/stephaniemakori"><img alt="LinkedIn" src="assets/badges/linkedin-stephaniemakori.svg"></a>
+  <a href="mailto:makoristephanie@gmail.com"><img alt="Email" src="assets/badges/email-makoristephanie-40gmail-com.svg"></a>
 </p>
 
 I build web products for Kenya on AWS and automate the infrastructure behind them with Terraform and CI/CD.
@@ -14,15 +14,15 @@ Computer Science graduate (Egerton University), now going deeper on DevOps: Kube
 
 ## ☁️ Certifications
 
-![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_--_Associate-0d7356?style=for-the-badge)
-![AWS CloudOps Engineer – Associate](https://img.shields.io/badge/AWS-CloudOps_Engineer_--_Associate-0d7356?style=for-the-badge)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-2f8f73?style=for-the-badge)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-2f8f73?style=for-the-badge)
+![AWS Solutions Architect – Associate](assets/badges/aws-solutions-architect-associate.svg)
+![AWS CloudOps Engineer – Associate](assets/badges/aws-cloudops-engineer-associate.svg)
+![AWS Cloud Practitioner](assets/badges/aws-cloud-practitioner.svg)
+![AWS AI Practitioner](assets/badges/aws-ai-practitioner.svg)
 <br>
-![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-56665f?style=for-the-badge)
-![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900-56665f?style=for-the-badge)
-![Azure AI-900](https://img.shields.io/badge/Azure-AI--900-56665f?style=for-the-badge)
-![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-56665f?style=for-the-badge)
+![ISC2 Certified in Cybersecurity](assets/badges/isc2-certified-in-cybersecurity.svg)
+![Azure AZ-900](assets/badges/azure-az-900.svg)
+![Azure AI-900](assets/badges/azure-ai-900.svg)
+![GitHub Foundations](assets/badges/github-foundations.svg)
 
 ## 🚀 Featured projects
 
@@ -39,8 +39,8 @@ that writes plain-English spend summaries with Amazon Bedrock.
 ## 🛠️ Tools I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,git,python,django,js,postgres,go,kubernetes&theme=dark">
-  <img alt="AWS, Terraform, Docker, GitHub Actions, Linux, Git, Python, Django, JavaScript, PostgreSQL, Go, Kubernetes" src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,linux,git,python,django,js,postgres,go,kubernetes&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
+  <img alt="AWS, Terraform, Docker, GitHub Actions, Linux, Git, Python, Django, JavaScript, PostgreSQL, Go, Kubernetes" src="assets/tools-light.svg">
 </picture>
 
 **AWS:** EC2 · S3 · VPC · IAM · RDS · Lambda · Elastic Beanstalk · Lightsail · Cognito · Bedrock · CloudWatch · Secrets Manager
