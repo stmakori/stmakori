@@ -28,9 +28,9 @@ Computer Science graduate (Egerton University), now going deeper on DevOps: Kube
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Voices Against Violence**](https://github.com/stmakori/voices) · [live](https://www.voicesagainstviolence.co.ke) | GBV reporting and support platform for Kenya: anonymous reports with status tracking, a verified map of help, and an AI support companion | Django, AWS Elastic Beanstalk, Cognito, Leaflet |
-| [**Cornote**](https://github.com/stmakori/Cornote_Qwen) · [demo](https://bit.ly/4AF7FcM) | Turns any PDF into Cornell notes, practice questions and an adaptive study plan, run by four autonomous Claude agents | Django, Anthropic SDK, AWS Lightsail |
-| [**Terraform Challenge**](https://github.com/stmakori/Terraform_Challenge) | Day-by-day Terraform on AWS: modules, remote state, Terratest, CI plan artifacts, Sentinel and multi-region HA | Terraform, AWS, GitHub Actions, Go |
+| [**Voices Against Violence**](https://github.com/stmakori/voices-against-violence) · [live](https://www.voicesagainstviolence.co.ke) | GBV reporting and support platform for Kenya: anonymous reports with status tracking, a verified map of help, and an AI support companion | Django, AWS Elastic Beanstalk, Cognito, Leaflet |
+| [**Cornote**](https://github.com/stmakori/cornote) · [demo](https://bit.ly/4AF7FcM) | Turns any PDF into Cornell notes, practice questions and an adaptive study plan, run by four autonomous Claude agents | Django, Anthropic SDK, AWS Lightsail |
+| [**Terraform Challenge**](https://github.com/stmakori/terraform-aws-challenge) | Day-by-day Terraform on AWS: modules, remote state, Terratest, CI plan artifacts, Sentinel and multi-region HA | Terraform, AWS, GitHub Actions, Go |
 | [**ChamaHub**](https://github.com/stmakori/Chamahub) | Chama (savings group) management with M-Pesa payments and a Stellar blockchain audit trail | Django, Payhero, Stellar |
 
 Also: [Cost Sentinel](https://github.com/stmakori/Weekend-Agent-Challenge-Cost-Sentinel), a scheduled AWS cost-anomaly agent
