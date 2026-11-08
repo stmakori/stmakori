@@ -39,9 +39,6 @@ that writes plain-English spend summaries with Amazon Bedrock.
 ## 🛠️ Tools I work with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img alt="AWS, Terraform, Docker, GitHub Actions, Linux, Git, Python, Django, JavaScript, PostgreSQL, Go, Kubernetes" src="assets/tools-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Cloud: AWS (EC2, S3, VPC, IAM, RDS, Lambda, Elastic Beanstalk, Lightsail, Cognito, Bedrock, CloudWatch, Secrets Manager). Infra and delivery: Terraform, GitHub Actions, Docker, Terratest, Sentinel, Linux, Git. Code: Python, Django, JavaScript, SQL, PostgreSQL, Java. Learning now: Kubernetes (EKS), observability, Go." src="assets/stack-light.svg" width="100%">
 </picture>
-
-**AWS:** EC2 · S3 · VPC · IAM · RDS · Lambda · Elastic Beanstalk · Lightsail · Cognito · Bedrock · CloudWatch · Secrets Manager
-**Learning now:** Kubernetes (EKS) · observability · Go
