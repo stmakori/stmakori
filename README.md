@@ -32,6 +32,7 @@ Computer Science graduate (Egerton University), now going deeper on DevOps: Kube
 | [**Cornote**](https://github.com/stmakori/cornote) · [demo](https://bit.ly/4AF7FcM) | Turns any PDF into Cornell notes, practice questions and an adaptive study plan, run by four autonomous Claude agents | Django, Anthropic SDK, AWS Lightsail |
 | [**Terraform Challenge**](https://github.com/stmakori/terraform-aws-challenge) | Day-by-day Terraform on AWS: modules, remote state, Terratest, CI plan artifacts, Sentinel and multi-region HA | Terraform, AWS, GitHub Actions, Go |
 | [**ChamaHub**](https://github.com/stmakori/Chamahub) | Chama (savings group) management with M-Pesa payments and a Stellar blockchain audit trail | Django, Payhero, Stellar |
+| [**Feedback Platform**](https://github.com/stmakori/feedback-platform) | Multi-tenant client feedback: invited clients send text, photos or in-browser voice notes; tenant isolation backed by tests | Ruby on Rails, Hotwire, PostgreSQL, Sidekiq |
 
 Also: [Cost Sentinel](https://github.com/stmakori/Weekend-Agent-Challenge-Cost-Sentinel), a scheduled AWS cost-anomaly agent
 that writes plain-English spend summaries with Amazon Bedrock.
